@@ -15,4 +15,4 @@
 | 1 | Object3D p5.js | Object3D di p5.js |
 
 # SCREENSHOT PROGRAM
-![](![Alt text](https://github.com/LessT7/Perulangan-For/blob/main/Screenshot%20(583).png))
+![](![Alt text](https://github.com/LessT7/Object3D/blob/main/Screenshot%202024-11-18%20133452.png))
